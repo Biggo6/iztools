@@ -1,0 +1,13 @@
+{
+    "name": "biggo/iztools",
+    "description": "a tool that simplifies laravel and jquery methods",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joram Kimata",
+            "email": "joramkimata@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
