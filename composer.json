@@ -2,6 +2,7 @@
     "name": "biggo/iztools",
     "description": "a tool that simplifies laravel and jquery methods",
     "license": "MIT",
+    "keywords": ["laravel"],
     "authors": [
         {
             "name": "Joram Kimata",
@@ -9,5 +10,10 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Biggo6\\Iztools\\": "src/"
+        }
+    }
 }
